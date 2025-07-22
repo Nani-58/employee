@@ -1,30 +1,14 @@
-## Salary Prediction - Machine Learning Web App [Python, Machine Learning]
+# Salary Prediction - Machine Learning Web App
 
-Hello! My application named "Salary Prediction".
+Welcome! This repository contains a simple **Salary Prediction** web application built using **Python**, **Machine Learning**, and **Streamlit**.
 
-## À propos de ce projet
-C'est une application Web Machine Learning en Python avec Streamlit. j'ai utilisé des données du monde réel pour créer un modèle d'apprentissage automatique. Analyser les données et construiser notre modèle, et par la suite j'ai construit l'application Web à l'aide de streamlit.
+## 🔍 About the Project
 
-## Installation
+This project demonstrates how machine learning models can be integrated into interactive web apps. Using a real-world dataset, I trained a machine learning model to predict salaries based on inputs. The app allows users to interact with the model using a friendly interface.
 
-Pour que le projet soit opérationnel sur votre ordinateur local, procédez comme suit :
+## 🚀 How to Run Locally
 
-1. cloner avec l'url donnée en utilisant commande => git clone https://github.com/benjdiasaad/WebApp-ML-salaryprediction
-2. Exécutez **pip install streamlit**, pour installer streamlit
-3. Exécutez la commande **streamlit run app.py** dans votre invite de commande pour démarrer l'application
-
-## Technologies utilisées
-
-* Python.
-* Les algorithmes de ML.
-* Jupyter Notebook.
-* Visual Studio Code (IDE).
-* Git.
-
-## Screen Shots
-![01 - home page](https://github.com/benjdiasaad/WebApp-ML-salaryprediction/blob/main/screenshots/1.png)
-![02 - predict salary](https://github.com/benjdiasaad/WebApp-ML-salaryprediction/blob/main/screenshots/2.png)
-![03 - explore](https://github.com/benjdiasaad/WebApp-ML-salaryprediction/blob/main/screenshots/3.png)
-![02 - histogram](https://github.com/benjdiasaad/WebApp-ML-salaryprediction/blob/main/screenshots/4.png)
-![02 - plot](https://github.com/benjdiasaad/WebApp-ML-salaryprediction/blob/main/screenshots/5.png)
-
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/benjdiasaad/WebApp-ML-salaryprediction
+   cd WebApp-ML-salaryprediction
